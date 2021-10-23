@@ -9,7 +9,10 @@ public class RestAPITest {
 	{
 		
 		System.out.println(" Jira Apps automation");
-		
+
+		System.out.println(" Jira2 Apps automation");
+		System.out.println(" Jira3 Apps automation");
+
 	}
 	
 	//@Test

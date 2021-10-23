@@ -9,6 +9,9 @@ public class SeleniumTest {
 	
 	{
 		System.out.println("BrowserAutomation Apps");
+		System.out.println("BrowserAutomation2 Apps");
+		System.out.println("BrowserAutomation3 Apps");
+		System.out.println("BrowserAutomation4 Apps");
 	}
 	
 	@Test
