@@ -15,6 +15,16 @@ public class RestAPITest {
 
 	}
 	
+	public void gitLab()
+	{
+		
+		System.out.println(" git Apps automation");
+
+		System.out.println(" git Apps automation");
+		System.out.println(" git Apps automation");
+
+	}
+	
 	//@Test
 	public void deleteTwitter()
 	{

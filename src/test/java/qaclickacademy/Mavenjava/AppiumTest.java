@@ -20,6 +20,14 @@ public class AppiumTest {
 	}
 	
 	@Test
+	public void NativeApiumAndroidSBR()
+	{
+		
+		System.out.println("NativeApiumAndroid Apps1SBR");
+		System.out.println("NativeApiumAndroid Apps2SBR");
+	}
+	
+	@Test
 	public void IOSApps()
 	{
 		System.out.println("IOS Apps1");
